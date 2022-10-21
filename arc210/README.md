@@ -50,8 +50,9 @@ It makes a lot more sense once you [see it in action (YouTube video)](https://ww
 
 * a 3d printer (Ender 3 v2, with lots of mods), used to print all the layers that things are mounted to, and the box it is inside of, and all the knobs.
 
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/gardnerjr/51899756752/in/datetaken-public/" title="Untitled"><img src="https://live.staticflickr.com/65535/51899756752_329d90bb28_c.jpg" width="600" height="800" alt="the layers">
-  the rough layout is very similar to that of the panels done by (The Warthog Project)[https://thewarthogproject.com/the-panel-design], though he laser cuts his and they come out very professional.  I 3d printed mine, the top 3 layers in clear filament (should have used white maybe?), painted them black, and then used a super cheap laser etcher (in several passes since it isn't big enough to do the whole panel!) to etch out the text, lines and outlines. there's 2 more layers inside, one that the led strip is glued to, and one that the mega is attached to
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/gardnerjr/51899756752/in/datetaken-public/" title="Untitled"><img src="https://live.staticflickr.com/65535/51899756752_329d90bb28_c.jpg" width="600" height="800" alt="the layers"></a>
+
+  The rough layout is very similar to that of the panels done by [The Warthog Project](https://thewarthogproject.com/the-panel-design), though he laser cuts his and they come out very professional.  I 3d printed mine, the top 3 layers in clear filament (should have used white maybe?), painted them black, and then used a super cheap laser etcher (in several passes since it isn't big enough to do the whole panel!) to etch out the text, lines and outlines. there's 2 more layers inside, one that the led strip is glued to, and one that the mega is attached to
 
 ## how does it work?
 * none of the encoders/buttons are mapped directly to dcs-bios buttons/etc like you'd normally do.
