@@ -1,7 +1,13 @@
 # dcs-bios-sketches
-My repo of public dcs bios examples/samples, for use with DCS, the computer combat flight simulator, and with DCS-BIOS, an add on application that allows hardware to communicate bi-directionally with the game.
+My repo of public code examples/samples, for use with [DCS: World](https://www.digitalcombatsimulator.com/en/), the combat flight simulator game, and with [dcs-bios](https://github.com/dcs-bios/dcs-bios), an add on application that allows hardware to communicate bi-directionally with the game. (There's also a [fork of dcs-bios called DCSFlightpanels](https://github.com/DCSFlightpanels/dcs-bios) that these examples may or may not work with).  dcs-bios is one way people build entire cockpits that look and behave like real fighter jets and helicopters.
 
-## What is here so far
+My setup has grown over the years, but all sits on, by or attaches to my desk to play,
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gardnerjr/51900716526/in/album-72157715786645217/" title="Untitled"><img src="https://live.staticflickr.com/65535/51900716526_f1481f34c6_c.jpg" width="800" height="600" alt="my setup"></a>
+
+and can all be moved into the closet for the normal workday. Almost every button and switch you see is hooked up in game
+
+# What is here so far (this is what you're here for!)
 1) [ARC210](./arc210/) - my psuedo-ARC210 radio implementation
 2) [external lights](./externallights/) - one of the simplest possible examples, driving some leds
 
